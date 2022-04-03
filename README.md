@@ -1,24 +1,5 @@
-# README
+# Ruby on Rails with GraphQL
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This project is simply following this [steps](https://www.apollographql.com/blog/community/backend/using-graphql-with-ruby-on-rails/) with a few things that I am adding.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+![](https://www.apollographql.com/blog/static/using-graphql-with-ruby-on-rails-ac0f888e3ad0a9eb7b4a8063d32fc9e5.png)
