@@ -1,8 +1,8 @@
 default: &default
   adapter: postgresql
   encoding: unicode
-  username: <%= ENV["TAYPI_DATABASE_USERNAME"] %>
-  password: <%= ENV["TAYPI_DATABASE_PASSWORD"] %>
+  username: anstroy
+  password: password123
   host: localhost
   port: 5433
   # For details on connection pooling, see Rails configuration guide
